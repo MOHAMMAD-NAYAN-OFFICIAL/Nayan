@@ -1,0 +1,9 @@
+{
+  "name": "NAYAN-BOT",
+  "version": "2.5.3",
+  "description": "New update with improved performance and bug fixes",
+  "new command": "/start, /help, /admin",
+  "update": "Added auto update system",
+  "owner": "https://t.me/MOHAMMADNAYAN",
+  "main": "https://github.com/MOHAMMAD-NAYAN-07/Nayan"
+}
