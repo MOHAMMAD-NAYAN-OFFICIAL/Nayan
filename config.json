@@ -16,7 +16,8 @@
     "note": "Ck"
   },
   "api": {
-    "baseUrl": "https://nayan-video-downloader.vercel.app"
+    "baseUrl": "https://nayan-video-downloader.vercel.app",
+    "vpsUrl": "http://93.115.106.210:6007"
   },
   "updatedAt": "2026-11-05T07:09:07.023Z"
 }
