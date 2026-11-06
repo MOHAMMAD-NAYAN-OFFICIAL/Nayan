@@ -1,8 +1,8 @@
 {
   "announcement": {
-    "active": true,
-    "title": "ck",
-    "message": "nsvsjsjsv sjcsjs shscsjjs hscsjsjsbs gsvshsjsh"
+    "active": false,
+    "title": "",
+    "message": ""
   },
   "message": "✦ Welcome to Nayan Downloader! Download your favourite videos fast, in HD — 100% Free, No Limit, No Watermark ✦",
   "maintenance": {
@@ -10,8 +10,8 @@
     "message": "W8"
   },
   "latest": {
-    "version": "2.7",
-    "versionCode": 19,
+    "version": "1.0.0",
+    "versionCode": 1,
     "apkUrl": "https://vhuj.com",
     "note": "Ck"
   },
