@@ -10,10 +10,10 @@
     "message": "W8"
   },
   "latest": {
-    "version": "1.0.5",
-    "versionCode": 48,
+    "version": "1.0.4",
+    "versionCode": 47,
     "apkUrl": "https://nayan-downloader.web.app/",
-    "note": "update yt api"
+    "note": ""
   },
   "api": {
     "baseUrl": "https://nayan-video-downloader.vercel.app",
