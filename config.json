@@ -12,7 +12,7 @@
   "latest": {
     "version": "1.0.4",
     "versionCode": 47,
-    "apkUrl": "https://nayan-downloader.web.app/",
+    "apkUrl": "https://nayan-downloader.vercel.app/",
     "note": ""
   },
   "api": {
