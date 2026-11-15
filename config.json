@@ -10,11 +10,11 @@
     "message": "W8"
   },
   "latest": {
-    "version": "1.0.4",
-    "versionCode": 47,
+    "version": "1.0.5",
+    "versionCode": 48,
     "apkUrl": "https://nayan-downloader.vercel.app/",
     "apkDl": "https://nayan-downloader.vercel.app/download",
-    "note": ""
+    "note": "• New side bar menu — tap ☰ for Info, Language & Mode\n• Dark Black theme — the whole app is now pure black"
   },
   "api": {
     "baseUrl": "https://nayan-video-downloader.vercel.app",
