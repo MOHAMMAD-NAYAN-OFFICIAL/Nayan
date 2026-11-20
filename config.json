@@ -14,7 +14,7 @@
     "versionCode": 49,
     "apkUrl": "https://nayan-downloader.vercel.app/",
     "apkDl": "https://nayan-downloader.vercel.app/download",
-    "note": "YouTube response now fast\n• Video title now copyable — tap the title or the Copy Title button"
+    "note": "• YouTube response now fast\n• Video title now copyable — tap the title or the Copy Title button"
   },
   "api": {
     "baseUrl": "https://nayan-video-downloader.vercel.app",
